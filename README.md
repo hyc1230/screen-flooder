@@ -2,6 +2,8 @@
 
 Heyc制作的刷屏器，可自定义间隔时间和发送方式（Enter 或 Ctrl+Enter）
 
+[回主页](https://hyc1230.github.io)
+
 ---
 ### 图片
 
